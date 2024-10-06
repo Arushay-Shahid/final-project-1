@@ -1,0 +1,10 @@
+html {
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    }
+
+
